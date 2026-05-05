@@ -1,0 +1,39 @@
+sku,nombre,categoria,stock_actual,stock_minimo,unidades_faltantes,valor_inventario
+SKU00035,Bocina Bluetooth Razer,Audio,4,50,46,14249.40
+SKU00092,SSD Apple,Almacenamiento,4,50,46,6754.84
+SKU00017,Monitor Curvo MSI,Electronica,14,50,36,230494.60
+SKU00052,Teclado SanDisk,Accesorios,24,50,26,24785.52
+SKU00033,Microfono Corsair,Audio,0,25,25,0.00
+SKU00018,Touchpad Epson,Accesorios,6,30,24,11283.30
+SKU00090,Chromebook Xiaomi,Electronica,10,30,20,75519.80
+SKU00064,Monitor Gaming Samsung,Electronica,7,25,18,73249.82
+SKU00011,Notebook Xiaomi,Electronica,1,15,14,13495.99
+SKU00058,Monitor Razer,Electronica,16,30,14,65633.92
+SKU00021,Bocina Corsair,Audio,3,15,12,1902.42
+SKU00049,Audifonos Gaming WD,Audio,3,15,12,2274.24
+SKU00056,Barra Sonido Acer,Audio,9,20,11,31697.46
+SKU00025,Mouse,Accesorios,2,10,8,606.82
+SKU00069,Adaptador WiFi,Redes,12,20,8,4438.80
+SKU00075,MicroSD HyperX,Almacenamiento,12,20,8,8543.16
+SKU00088,Ultrabook SanDisk,Electronica,2,10,8,47568.72
+SKU00010,Procesador Seagate,Componentes,20,25,5,274720.80
+SKU00036,RAM Sony,Componentes,0,5,5,0.00
+SKU00002,Barra Sonido Razer,Audio,16,20,4,94477.28
+SKU00014,MacBook MSI,Electronica,1,5,4,21584.06
+SKU00019,Tarjeta Video Dell,Componentes,6,10,4,153586.86
+SKU00060,Microfono Xiaomi,Audio,1,5,4,2134.97
+SKU00074,Audifonos Logitech,Audio,1,5,4,1000.02
+SKU00079,Monitor Gigabyte,Electronica,11,15,4,124832.95
+SKU00084,Teclado Mecanico HP,Accesorios,1,5,4,2423.69
+SKU00008,Chromebook Anker,Electronica,2,5,3,13254.38
+SKU00013,Teclado Gaming Lenovo,Accesorios,17,20,3,52926.44
+SKU00054,Mouse Canon,Accesorios,2,5,3,682.64
+SKU00072,Stylus Gigabyte,Accesorios,17,20,3,5718.97
+SKU00097,Chromebook HyperX,Electronica,2,5,3,24943.52
+SKU00023,Stylus Lenovo,Accesorios,3,5,2,4765.53
+SKU00063,SSD Externo Apple,Almacenamiento,13,15,2,48615.97
+SKU00087,Microfono USB Apple,Audio,3,5,2,6677.31
+SKU00094,HDD Externo LG,Almacenamiento,3,5,2,11023.38
+SKU00005,Ultrabook TP-Link,Electronica,14,15,1,358079.82
+SKU00038,Microfono USB,Audio,49,50,1,28097.58
+SKU00095,Teclado HP,Accesorios,24,25,1,17765.04
