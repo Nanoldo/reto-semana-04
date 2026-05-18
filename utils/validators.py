@@ -1,3 +1,5 @@
+import math
+
 def validar_sku(sku):
     """
     Valida que el SKU no este vacio.
@@ -25,6 +27,8 @@ def validar_precio(precio):
     """
     try:
         precio_num = float(precio)
+        if not math.isfinite(precio_num):
+            return False
         return precio_num >= 0
     except (ValueError, TypeError):
         return False
@@ -41,6 +45,9 @@ def validar_stock(stock):
         bool: True si es valido, False si no
     """
     try:
+        stock_float = float(stock)
+        if not math.isfinite(stock_float):
+            return False
         stock_num = int(stock)
         return stock_num >= 0
     except (ValueError, TypeError):
